@@ -1,8 +1,8 @@
 import boto3
 
 # TODO: Replace harcoded keys with env vars
-AWS_ACCESS_KEY = 'AKIARZDBHSDSL54DKSW3'
-AWS_SECRET_KEY = 'JYgAvNdSSM/L6YnjjBEpffRustrioZxUy7DJaDJF'
+AWS_ACCESS_KEY = 'AKIARZDBHSDSDPW4XE4C'
+AWS_SECRET_KEY = 'VtlnhKM9yAWsOyR1zMdpiFcnHucaDTMsIhpg38g/'
 
 # GitHub PAT for debugging reasons:
 # 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
